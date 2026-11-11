@@ -2,14 +2,20 @@
 
 데모 중심 소개 슬라이드(**21장**)입니다. 만들고(GitHub Copilot), 지능을 붙이고(Microsoft Foundry), 올려서 운영하는(Azure Container Apps · AKS) 전 과정을 슬라이드가 아니라 **실제 실행 화면과 검증 기록**으로 보여 줍니다. 슬라이드 안에 화면 녹화 영상 **7개**(합계 약 4분 40초)가 들어 있고, 한국어 발표 노트가 달려 있습니다.
 
+**English edition:** 영문판 슬라이드(영문 발표 노트 포함)도 있습니다 — [README.en.md](README.en.md)
+
 ## 웹에서 바로 보기 — 다운로드 없이
 
 | | |
 | --- | --- |
-| **슬라이드** (21장, 영상 7개 내장) | [📑 브라우저에서 열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjunwoojeong100.github.io%2Fghcp-foundry-aks-aca-demo-deck%2FGitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx) |
-| **PPTX** | [⬇ GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx](https://junwoojeong100.github.io/ghcp-foundry-aks-aca-demo-deck/GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx) (약 32 MB) |
+| **슬라이드 — 한국어** (21장, 영상 7개 내장) | [📑 브라우저에서 열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjunwoojeong100.github.io%2Fghcp-foundry-aks-aca-demo-deck%2FGitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx) |
+| **PPTX — 한국어** | [⬇ GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx](https://junwoojeong100.github.io/ghcp-foundry-aks-aca-demo-deck/GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_KO.pptx) (약 32 MB) |
+| **슬라이드 — English** (21장, 영상 7개 내장, 영문 발표 노트) | [📑 브라우저에서 열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjunwoojeong100.github.io%2Fghcp-foundry-aks-aca-demo-deck%2FGitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_EN.pptx) |
+| **PPTX — English** | [⬇ GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_EN.pptx](https://junwoojeong100.github.io/ghcp-foundry-aks-aca-demo-deck/GitHub_Copilot_Foundry_ACA_AKS_Demo_Deck_EN.pptx) (약 32 MB) |
 
 슬라이드는 Microsoft 의 PowerPoint for the web 으로 열립니다. 영상 위 ▶ 를 누르면 재생되고, 오른쪽 아래 **Notes** 에서 발표 노트를, **Start Slide Show** 에서 전체 화면 발표를 볼 수 있습니다. 영상이 들어 있어 파일이 크므로 처음 열 때는 로딩에 시간이 걸릴 수 있습니다. 웹 뷰어는 자체 글꼴을 쓰므로 줄바꿈이 데스크톱 PowerPoint 와 조금 다를 수 있습니다. 정확한 모양은 PPTX 를 내려받아 확인하세요.
+
+영문판은 한국어판과 같은 21장·같은 구성입니다. 데모 1~5 영상은 [foundry-ghcp-demo-deck](https://github.com/junwoojeong100/foundry-ghcp-demo-deck) 영문판의 **영어 재녹화본**(Copilot CLI 응답, Foundry 샘플 질문·답변까지 화면이 모두 영어)이라, 이 데모들의 수치가 한국어판과 조금 다릅니다(예: Copilot 실행 38.0분·테스트 26 → 100개, Foundry 평가 약 4.5분). 데모 6·9 영상은 원본 녹화에서 **캡션·배속 라벨 같은 편집 오버레이만 영어로 교체**했습니다.
 
 ## 데모 구성 (10개)
 
